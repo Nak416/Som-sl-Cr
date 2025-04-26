@@ -15,3 +15,7 @@ btnNo.onmousemove= ()=>{
     btnNo.style.left = `${random}px`;
     btnNo.style.top = `${randomh}px`;
 }
+btnYes.onclick = () => {
+    window.open('https://web.facebook.com/vannak.hey.3')
+    window.confirm('')
+}
